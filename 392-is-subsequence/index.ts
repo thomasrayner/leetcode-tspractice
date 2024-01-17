@@ -9,4 +9,4 @@ function isSubsequence(s: string, t: string): boolean {
 
     return si === s.length;
 };
-
+isSubsequence("this", "th")
